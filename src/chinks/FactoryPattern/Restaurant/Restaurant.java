@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package chinks.Restaurant;
-import chinks.factory.Restaurant_Factory;
-import chinks.intf.RestaurantInterface;
+package chinks.FactoryPattern.Restaurant;
+import chinks.FactoryPattern.factory.Restaurant_Factory;
+import chinks.FactoryPattern.intf.RestaurantInterface;
 import java.util.Scanner;
 //import SelectRest;
 

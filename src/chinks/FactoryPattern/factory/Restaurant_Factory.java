@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package chinks.factory;
+package chinks.FactoryPattern.factory;
 
-import chinks.impl.A2B_RestImpl;
-import chinks.impl.DrunkenMonkey_RestImpl;
-import chinks.impl.SkyDeck_RestImpl;
-import chinks.intf.RestaurantInterface;
+//import chinks.FactoryPattern.factory.*;
+import chinks.FactoryPattern.impl.A2B_RestImpl;
+import chinks.FactoryPattern.impl.DrunkenMonkey_RestImpl;
+import chinks.FactoryPattern.impl.SkyDeck_RestImpl;
+import chinks.FactoryPattern.intf.RestaurantInterface;
 
 /**
  *

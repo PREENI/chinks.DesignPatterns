@@ -3,7 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package chinks.intf;
+package chinks.FactoryPattern.intf;
+
+//import chinks.FactoryPattern.intf.*;
 
 /**
  *

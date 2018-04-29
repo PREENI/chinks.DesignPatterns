@@ -3,9 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package chinks.impl;
+package chinks.FactoryPattern.impl;
 
-import chinks.intf.RestaurantInterface;
+//import chinks.FactoryPattern.impl.*;
+import chinks.FactoryPattern.intf.RestaurantInterface;
 
 /**
  *
