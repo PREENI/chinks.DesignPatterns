@@ -1,25 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package chinks.FactoryPattern.Restaurant;
 import chinks.FactoryPattern.factory.Restaurant_Factory;
 import chinks.FactoryPattern.intf.RestaurantInterface;
 import java.util.Scanner;
-//import SelectRest;
 
-/**
- *
- * @author PREENI
- */
 public class Restaurant {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+   public static void main(String[] args) {
+        
         Scanner sc=new Scanner(System.in);
         String c;
         do{
